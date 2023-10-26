@@ -61,4 +61,6 @@ This C++ program is designed to manage COVID-19 patient records and vaccination 
 
 ## License
 
-This project is licensed under the Venkat Chavan N.Contact venkatchavan1999@gmail.com 
+This project is licensed under the Venkat Chavan N student at SRH BERLIN UNIVERSITY OF APPLIED SCIENCES.
+Subject Specialization: MSc Computer Science | Big Data and Artificial Intelligence 
+Contact venkatchavan1999@gmail.com 
