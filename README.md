@@ -59,6 +59,16 @@ This C++ program is designed to manage COVID-19 patient records and vaccination 
 
 6. **View Vaccination Statistics:** Check the number of people vaccinated and the available slots.
 
+
+Topics and Software Engineering techniques
+1. Git
+usage of GitHub for the whole project time
+https://github.com/Venkatchavan/SDSRH/commits/main
+
+2. UML
+UML Diagramm  (Class,Activity Diagram and UseCase Diagrams for the project with Edlich's Fund)
+
+
 ## License
 
 This project is licensed under the Venkat Chavan N student at SRH BERLIN UNIVERSITY OF APPLIED SCIENCES.
