@@ -67,6 +67,7 @@ https://github.com/Venkatchavan/SDSRH/commits/main
 
 2. UML
 UML Diagramm  (Class,Activity Diagram and UseCase Diagrams for the project with Edlich's Fund)
+https://github.com/Venkatchavan/SDSRH/tree/develop/UML%20Diagrams
 
 
 ## License
