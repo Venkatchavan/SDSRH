@@ -64,8 +64,9 @@ Topics and Software Engineering techniques
 1. Git
 usage of GitHub for the whole project time
 https://github.com/Venkatchavan/SDSRH/commits/main
+https://github.com/Venkatchavan/SDSRH/commits/develop
 
-2. UML
+3. UML
 UML Diagramm  (Class,Activity Diagram and UseCase Diagrams for the project with Edlich's Fund)
 https://github.com/Venkatchavan/SDSRH/tree/develop/UML%20Diagrams
 
