@@ -62,8 +62,10 @@ This C++ program is designed to manage COVID-19 patient records and vaccination 
 
 ### Topics and Software Engineering techniques
 *1. Git*
-usage of GitHub for the whole project time
+usage of GitHub for the whole project
 https://github.com/Venkatchavan/SDSRH/commits/main
+
+usage of GitHub for the branch 
 https://github.com/Venkatchavan/SDSRH/commits/develop
 
 *2. UML*
