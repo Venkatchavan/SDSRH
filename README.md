@@ -71,6 +71,8 @@ UML Diagramm  (Class,Activity Diagram and UseCase Diagrams for the project with 
 https://github.com/Venkatchavan/SDSRH/tree/develop/UML%20Diagrams
 
 *3.Requirement Analysis*
+
+
 a)Add Patient Record:The system must provide a form to input and store patient details, including BU number, name, age, phone number, and hospital.
 
 b)Search Patients:Users should be able to search for patients based on BU number or name.
