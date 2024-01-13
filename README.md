@@ -14,6 +14,7 @@ This C++ program is designed to manage COVID-19 patient records and vaccination 
 - [Clean code Development](#clean-code-development)
 - [Build](#Build)
 - [IDE](#IDE)
+- [Functional Programming](#functional-programming)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -116,6 +117,9 @@ B)Creation of a Cheat Sheet for upcoming projects - [ccd-sdsrh.md](https://githu
 Adding most favorite shortcuts here and create own to allow faster developemnt without lifting hands from keyboard
 
 -[IDE](https://github.com/Venkatchavan/SDSRH/blob/b2abb86d4edbd729e6f60a8ecf2ab4c7e46ee24b/IDE)
+
+## Functional Programming
+
 
 
 
