@@ -115,12 +115,12 @@ B)Creation of a Cheat Sheet for upcoming projects - [ccd-sdsrh.md](https://githu
 ## IDE
 
 Adding most favorite shortcuts here and create own to allow faster developemnt without lifting hands from keyboard
-
 -[IDE](https://github.com/Venkatchavan/SDSRH/blob/b2abb86d4edbd729e6f60a8ecf2ab4c7e46ee24b/IDE)
 
 ## Functional Programming
 
-
+Apply functional programming for it's understanding and adding a class
+-[Functional Programming](https://github.com/Venkatchavan/SDSRH/blob/5acdd244c7b1416cf94fc53c0b02d4ba1942b46e/functional-programming.md)
 
 
 ## License
