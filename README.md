@@ -104,7 +104,6 @@ Creation of SonarCloud account and connecting to repository (with advanced setti
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Venkatchavan_SDSRH&metric=alert_status)](https://sonarcloud.io/dashboard?id=Venkatchavan_SDSRH)
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=Venkatchavan_SDSRH&metric=bugs)](https://sonarcloud.io/dashboard?id=Venkatchavan_SDSRH)
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=Venkatchavan_SDSRH&metric=code_smells)](https://sonarcloud.io/dashboard?id=Venkatchavan_SDSRH)
-[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=Venkatchavan_SDSRH&metric=coverage)](https://sonarcloud.io/dashboard?id=Venkatchavan_SDSRH)
 [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=Venkatchavan_SDSRH&metric=duplicated_lines_density)](https://sonarcloud.io/dashboard?id=Venkatchavan_SDSRH)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=Venkatchavan_SDSRH&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=Venkatchavan_SDSRH)
 [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=Venkatchavan_SDSRH&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=Venkatchavan_SDSRH)
