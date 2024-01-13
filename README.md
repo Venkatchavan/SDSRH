@@ -12,6 +12,7 @@ This C++ program is designed to manage COVID-19 patient records and vaccination 
 - [COVID-19 Patient Records](#covid-19-patient-records)
 - [Vaccination Management](#vaccination-management)
 - [Clean code Development](#clean-code-development)
+- [Build}(#build-pf-project)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -105,8 +106,9 @@ j)View Vaccination Statistics:Users should be able to check the number of vaccin
 
 B)Creation of a Cheat Sheet for upcoming projects - [ccd-sdsrh.md](https://github.com/Venkatchavan/SDSRH/blob/1b9eefd12c6a1c8141f0645d0fcad34efc3137b6/ccd-sdsrh.md)
 
+## Build
 
-
+-[build-of-project](https://github.com/Venkatchavan/SDSRH/blob/31251148b1c798fda081937a9a0abb818a3e8365/build_of_project.md)
 
 ## License
 
