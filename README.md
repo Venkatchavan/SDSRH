@@ -11,6 +11,7 @@ This C++ program is designed to manage COVID-19 patient records and vaccination 
 - [Usage](#usage)
 - [COVID-19 Patient Records](#covid-19-patient-records)
 - [Vaccination Management](#vaccination-management)
+- -[Clean code Development]{#clean-code-development}
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -60,7 +61,7 @@ This C++ program is designed to manage COVID-19 patient records and vaccination 
 6. **View Vaccination Statistics:** Check the number of people vaccinated and the available slots.
 
 
-### Topics and Software Engineering techniques
+## Topics and Software Engineering techniques
 *1. Git*
 usage of GitHub for the whole project
 https://github.com/Venkatchavan/SDSRH/commits/main
@@ -73,7 +74,6 @@ UML Diagramm  (Class,Activity Diagram and UseCase Diagrams for the project with 
 https://github.com/Venkatchavan/SDSRH/tree/develop/UML%20Diagrams
 
 *3.Requirement Analysis*
-
 
 a)Add Patient Record:The system must provide a form to input and store patient details, including BU number, name, age, phone number, and hospital.
 
@@ -94,6 +94,10 @@ h)Book Vaccination Slots:The system must allow users to book available vaccinati
 i)Sort Vaccination Slots:Users should be able to sort vaccination slots based on start times.
 
 j)View Vaccination Statistics:Users should be able to check the number of vaccinated people and available slots.
+
+
+## Clean code development
+
 
 
 ## License
