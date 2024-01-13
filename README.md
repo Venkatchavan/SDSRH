@@ -11,7 +11,7 @@ This C++ program is designed to manage COVID-19 patient records and vaccination 
 - [Usage](#usage)
 - [COVID-19 Patient Records](#covid-19-patient-records)
 - [Vaccination Management](#vaccination-management)
-- -[Clean code Development]{#clean-code-development}
+- [Clean code Development](#clean-code-development)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -97,6 +97,14 @@ j)View Vaccination Statistics:Users should be able to check the number of vaccin
 
 
 ## Clean code development
+
+
+
+
+
+
+B)Creation of a Cheat Sheet for upcoming projects
+
 
 
 
