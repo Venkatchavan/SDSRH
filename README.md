@@ -12,7 +12,7 @@ This C++ program is designed to manage COVID-19 patient records and vaccination 
 - [COVID-19 Patient Records](#covid-19-patient-records)
 - [Vaccination Management](#vaccination-management)
 - [Clean code Development](#clean-code-development)
-- [Build}(#build-pf-project)
+- [Build](#build-of-project)
 - [Contributing](#contributing)
 - [License](#license)
 
