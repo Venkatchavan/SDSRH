@@ -17,7 +17,6 @@ This C++ program is designed to manage COVID-19 patient records and vaccination 
 - [Build](#Build)
 - [IDE](#IDE)
 - [Functional Programming](#functional-programming)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Features
@@ -70,11 +69,11 @@ This C++ program is designed to manage COVID-19 patient records and vaccination 
 
 ### Git
 usage of GitHub for the whole project
-https://github.com/Venkatchavan/SDSRH/commits/main
+[Git](https://github.com/Venkatchavan/SDSRH/commits/main)
 
 ### UML
 UML Diagramm  (Class,Activity Diagram and UseCase Diagrams for the project with Edlich's Fund)
-https://github.com/Venkatchavan/SDSRH/tree/develop/UML%20Diagrams
+[UML](https://github.com/Venkatchavan/SDSRH/tree/develop/UML%20Diagrams)
 
 ### Requirement Analysis
 
