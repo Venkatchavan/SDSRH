@@ -101,7 +101,8 @@ j)View Vaccination Statistics:Users should be able to check the number of vaccin
 
 ## Metrices
 Creation of SonarCloud account and connecting to repository (with advanced settings) for metric badges:
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Venkatchavan_SDSRH&metric=alert_status)](https://sonarcloud.io/dashboard?id=Venkatchavan_SDSRH)
+
+-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Venkatchavan_SDSRH&metric=alert_status)](https://sonarcloud.io/dashboard?id=Venkatchavan_SDSRH)
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=Venkatchavan_SDSRH&metric=bugs)](https://sonarcloud.io/dashboard?id=Venkatchavan_SDSRH)
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=Venkatchavan_SDSRH&metric=code_smells)](https://sonarcloud.io/dashboard?id=Venkatchavan_SDSRH)
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=Venkatchavan_SDSRH&metric=coverage)](https://sonarcloud.io/dashboard?id=Venkatchavan_SDSRH)
