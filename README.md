@@ -13,6 +13,7 @@ This C++ program is designed to manage COVID-19 patient records and vaccination 
 - [Vaccination Management](#vaccination-management)
 - [Clean code Development](#clean-code-development)
 - [Build](#Build)
+- [IDE](#IDE)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -109,6 +110,14 @@ B)Creation of a Cheat Sheet for upcoming projects - [ccd-sdsrh.md](https://githu
 
 "Utilizes C++ with a custom build system for managing COVID-19 patient data and vaccination appointments, designed for seamless integration as a reusable package."
 -[build-of-project](https://github.com/Venkatchavan/SDSRH/blob/31251148b1c798fda081937a9a0abb818a3e8365/build_of_project.md)
+
+## IDE
+
+Adding most favorite shortcuts here and create own to allow faster developemnt without lifting hands from keyboard
+
+-[IDE](https://github.com/Venkatchavan/SDSRH/blob/b2abb86d4edbd729e6f60a8ecf2ab4c7e46ee24b/IDE)
+
+
 
 ## License
 
