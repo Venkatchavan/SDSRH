@@ -101,11 +101,12 @@ j)View Vaccination Statistics:Users should be able to check the number of vaccin
 
 ## Metrices
 Creation of SonarCloud account and connecting to repository (with advanced settings) for metric badges:
-[![Quality Gate Status](https://sonarcloud.io/summary/overall?id=Venkatchavan_SDSRH)
-[![Code Coverage](https://sonarcloud.io/summary/overall?id=Venkatchavan_SDSRH)
-[![Bugs](https://sonarcloud.io/summary/overall?id=Venkatchavan_SDSRH)
-[![Vulnerabilities](https://sonarcloud.io/summary/overall?id=Venkatchavan_SDSRH)
-[![Code Smells](https://sonarcloud.io/summary/overall?id=Venkatchavan_SDSRH)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=YourProjectKey&metric=alert_status)](https://sonarcloud.io/summary/overall?id=Venkatchavan_SDSRH)
+[![Code Coverage](https://sonarcloud.io/api/project_badges/measure?project=YourProjectKey&metric=coverage)](https://sonarcloud.io/summary/overall?id=Venkatchavan_SDSRH)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=YourProjectKey&metric=bugs)](https://sonarcloud.io/summary/overall?id=Venkatchavan_SDSRH)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=YourProjectKey&metric=vulnerabilities)](https://sonarcloud.io/summary/overall?id=Venkatchavan_SDSRH)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=YourProjectKey&metric=code_smells)](https://sonarcloud.io/summary/overall?id=Venkatchavan_SDSRH)
+
 
 ## Clean code development
 
