@@ -11,6 +11,7 @@ This C++ program is designed to manage COVID-19 patient records and vaccination 
 - [Usage](#usage)
 - [COVID-19 Patient Records](#covid-19-patient-records)
 - [Vaccination Management](#vaccination-management)
+- [Software Engineering](#Topics-and-Software-Engineering-techniques) 
 - [Metrices](#metrices)
 - [Clean code Development](#clean-code-development)
 - [Build](#Build)
@@ -70,9 +71,6 @@ This C++ program is designed to manage COVID-19 patient records and vaccination 
 usage of GitHub for the whole project
 https://github.com/Venkatchavan/SDSRH/commits/main
 
-usage of GitHub for the branch 
-https://github.com/Venkatchavan/SDSRH/commits/develop
-
 *2. UML*
 UML Diagramm  (Class,Activity Diagram and UseCase Diagrams for the project with Edlich's Fund)
 https://github.com/Venkatchavan/SDSRH/tree/develop/UML%20Diagrams
@@ -102,7 +100,7 @@ j)View Vaccination Statistics:Users should be able to check the number of vaccin
 ## Metrices
 Creation of SonarCloud account and connecting to repository (with advanced settings) for metric badges:
 
--[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Venkatchavan_SDSRH&metric=alert_status)](https://sonarcloud.io/dashboard?id=Venkatchavan_SDSRH)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Venkatchavan_SDSRH&metric=alert_status)](https://sonarcloud.io/dashboard?id=Venkatchavan_SDSRH)
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=Venkatchavan_SDSRH&metric=bugs)](https://sonarcloud.io/dashboard?id=Venkatchavan_SDSRH)
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=Venkatchavan_SDSRH&metric=code_smells)](https://sonarcloud.io/dashboard?id=Venkatchavan_SDSRH)
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=Venkatchavan_SDSRH&metric=coverage)](https://sonarcloud.io/dashboard?id=Venkatchavan_SDSRH)
@@ -111,8 +109,6 @@ Creation of SonarCloud account and connecting to repository (with advanced setti
 [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=Venkatchavan_SDSRH&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=Venkatchavan_SDSRH)
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=Venkatchavan_SDSRH&metric=security_rating)](https://sonarcloud.io/dashboard?id=Venkatchavan_SDSRH)
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=Venkatchavan_SDSRH&metric=vulnerabilities)](https://sonarcloud.io/dashboard?id=Venkatchavan_SDSRH)
-
-
 
 
 ## Clean code development
