@@ -11,6 +11,7 @@ This C++ program is designed to manage COVID-19 patient records and vaccination 
 - [Usage](#usage)
 - [COVID-19 Patient Records](#covid-19-patient-records)
 - [Vaccination Management](#vaccination-management)
+- [Metrices](#metrices)
 - [Clean code Development](#clean-code-development)
 - [Build](#Build)
 - [IDE](#IDE)
@@ -100,7 +101,7 @@ j)View Vaccination Statistics:Users should be able to check the number of vaccin
 
 ## Metrices
 Creation of SonarCloud account and connecting to repository (with advanced settings) for metric badges:
-
+-[Metrices](https://sonarcloud.io/summary/overall?id=Venkatchavan_SDSRH)
 
 ## Clean code development
 
