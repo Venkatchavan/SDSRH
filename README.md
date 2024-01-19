@@ -74,12 +74,16 @@ UML Diagramm  (Class,Activity Diagram and UseCase Diagrams for the project with 
 
 A. **Patient Information Management:**
    - **Description:** The system must allow users to input and manage patient information, including BU number, name, and age.
+     
 B. **Search Functionality:**
    - **Description:** Users should be able to search for patient details using their BU number.
+     
 C. **IDE Integration:**
-   - **Description:** The system needs to seamlessly integrate with PyCharm, providing convenient shortcuts for development tasks.
+   - **Description:** The system needs to seamlessly integrate with DevC++, providing convenient shortcuts for development tasks.
+     
 D. **Optimized Build Process:**
    - **Description:** The build process should be optimized for minimal code compilation time to ensure efficient development.
+     
 E. **SonarCloud Integration:**
    - **Description:** Integrate SonarCloud for continuous code quality checks, providing insights into project metrics.
 
