@@ -67,37 +67,39 @@ This C++ program is designed to manage COVID-19 patient records and vaccination 
 
 ## Topics and Software Engineering techniques
 
-### Git
+### 1 .Git
 usage of GitHub for the whole project
 [Git](https://github.com/Venkatchavan/SDSRH/commits/main)
 
-### UML
+### 2. UML
 UML Diagramm  (Class,Activity Diagram and UseCase Diagrams for the project with Edlich's Fund)
 [UML](https://github.com/Venkatchavan/SDSRH/tree/develop/UML%20Diagrams)
 
-### Requirement Analysis
+### 3. Requirement Analysis
 
-a)Add Patient Record:The system must provide a form to input and store patient details, including BU number, name, age, phone number, and hospital.
+A. **Patient Information Management:**
+   - **Description:** The system must allow users to input and manage patient information, including BU number, name, and age.
+B. **Search Functionality:**
+   - **Description:** Users should be able to search for patient details using their BU number.
+C. **IDE Integration:**
+   - **Description:** The system needs to seamlessly integrate with PyCharm, providing convenient shortcuts for development tasks.
+D. **Optimized Build Process:**
+   - **Description:** The build process should be optimized for minimal code compilation time to ensure efficient development.
+E. **SonarCloud Integration:**
+   - **Description:** Integrate SonarCloud for continuous code quality checks, providing insights into project metrics.
 
-b)Search Patients:Users should be able to search for patients based on BU number or name.
+These requirements ensure effective patient data management, convenient development workflows, and a focus on code quality throughout the development process.
 
-c)Remove Patient Record:Authorized users should have the ability to remove patient records by specifying the BU number.
+### 4. Analysis
 
-d)Display Patients:Users should be able to view a list of all patients in the system.
+"Thorough analysis encompasses defining a patient-centric scope, identifying stakeholders, mitigating risks, ensuring compliance, integrating seamlessly, and evaluating technical feasibility, budget, scalability, and market differentiation, setting the stage for a robust Patient Management System."
 
-e)Add Vaccination Record:The system must support the addition of vaccination records with details such as Aadhaar number, name, age, gender, phone number, and address.
+### 5. DDD
 
-f) View Vaccination Records:Users should be able to view a list of all vaccination records in the system.
+"Employing Domain-Driven Design principles, the project aligns business goals and technical implementation, fostering a modular, decoupled architecture to enhance flexibility, scalability, and maintainability in developing an innovative Patient Management System."
 
-g)Search Vaccination Records: Users should have the ability to search for vaccination records by name.
 
-h)Book Vaccination Slots:The system must allow users to book available vaccination slots with specified start and end times.
-
-i)Sort Vaccination Slots:Users should be able to sort vaccination slots based on start times.
-
-j)View Vaccination Statistics:Users should be able to check the number of vaccinated people and available slots.
-
-## Metrices
+## 6. Metrices
 Creation of SonarCloud account and connecting to repository (with advanced settings) for metric badges:
 
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Venkatchavan_SDSRH&metric=alert_status)](https://sonarcloud.io/dashboard?id=Venkatchavan_SDSRH)
@@ -110,21 +112,24 @@ Creation of SonarCloud account and connecting to repository (with advanced setti
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=Venkatchavan_SDSRH&metric=vulnerabilities)](https://sonarcloud.io/dashboard?id=Venkatchavan_SDSRH)
 
 
-## Clean code development
+## 7. Clean code development
 
 Creation of a Cheat Sheet for upcoming projects - [ccd-sdsrh.md](https://github.com/Venkatchavan/SDSRH/blob/1b9eefd12c6a1c8141f0645d0fcad34efc3137b6/ccd-sdsrh.md)
 
-## Build
+## 8. Build
 
 "Utilizes C++ with a custom build system for managing COVID-19 patient data and vaccination appointments, designed for seamless integration as a reusable package."
 -[build-of-project](https://github.com/Venkatchavan/SDSRH/blob/31251148b1c798fda081937a9a0abb818a3e8365/build_of_project.md)
 
-## IDE
+## 9. Unit Tests
+"The project's unit tests ensure robust functionality and adherence to specifications, promoting code reliability and preventing regression issues in the Patient Management System."
+
+## 10. IDE
 
 Adding most favorite shortcuts here and create own to allow faster developemnt without lifting hands from keyboard
 -[IDE](https://github.com/Venkatchavan/SDSRH/blob/b2abb86d4edbd729e6f60a8ecf2ab4c7e46ee24b/IDE)
 
-## Functional Programming
+## 11. Functional Programming
 
 Apply functional programming for it's understanding and adding a class
 -[Functional Programming](https://github.com/Venkatchavan/SDSRH/blob/5acdd244c7b1416cf94fc53c0b02d4ba1942b46e/functional-programming.md)
