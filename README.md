@@ -76,7 +76,7 @@ A. **Patient Information Management:**
    - **Description:** The system must allow users to input and manage patient information, including BU number, name, and age.
      
 B. **Search Functionality:**
-   - **Description:** Users should be able to search for patient details using their BU number.
+   - **Description:** Users should be able to search for patient details using their BU number. NOTE: ONE OF THE FUNCTIONALITY
      
 C. **IDE Integration:**
    - **Description:** The system needs to seamlessly integrate with DevC++, providing convenient shortcuts for development tasks.
