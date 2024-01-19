@@ -12,12 +12,12 @@ This C++ program is designed to manage COVID-19 patient records and vaccination 
 - [COVID-19 Patient Records](#covid-19-patient-records)
 - [Vaccination Management](#vaccination-management)
 - [Software Engineering](#Topics-and-Software-Engineering-techniques)
-- [Metrices](#5.metrices)
-- [Clean code Development](#7.clean-code-development)
-- [Build](#8.Build)
-- [Unit Tests](#9.unittests)
-- [IDE](#10.IDE)
-- [Functional Programming](#11.functional-programming)
+- [Metrices](#metrices)
+- [Clean code Development](#clean-code-development)
+- [Build](#build)
+- [Unit Tests](#unit-tests)
+- [IDE](#ide)
+- [Functional Programming](#functional-programming)
 - [License](#license)
 
 ## Features
@@ -76,7 +76,7 @@ usage of GitHub for the whole project
 UML Diagramm  (Class,Activity Diagram and UseCase Diagrams for the project with Edlich's Fund)
 [UML](https://github.com/Venkatchavan/SDSRH/tree/develop/UML%20Diagrams)
 
-### 3.Requirement Analysis
+###3.Requirement Analysis
 
 A. **Patient Information Management:**
    - **Description:** The system must allow users to input and manage patient information, including BU number, name, and age.
@@ -91,7 +91,7 @@ E. **SonarCloud Integration:**
 
 These requirements ensure effective patient data management, convenient development workflows, and a focus on code quality throughout the development process.
 
-### 4.Analysis
+###4.Analysis
 
 "Thorough analysis encompasses defining a patient-centric scope, identifying stakeholders, mitigating risks, ensuring compliance, integrating seamlessly, and evaluating technical feasibility, budget, scalability, and market differentiation, setting the stage for a robust Patient Management System."
 
@@ -100,7 +100,7 @@ These requirements ensure effective patient data management, convenient developm
 "Employing Domain-Driven Design principles, the project aligns business goals and technical implementation, fostering a modular, decoupled architecture to enhance flexibility, scalability, and maintainability in developing an innovative Patient Management System."
 
 
-## 6.Metrices
+## Metrices
 Creation of SonarCloud account and connecting to repository (with advanced settings) for metric badges:
 
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Venkatchavan_SDSRH&metric=alert_status)](https://sonarcloud.io/dashboard?id=Venkatchavan_SDSRH)
@@ -113,24 +113,24 @@ Creation of SonarCloud account and connecting to repository (with advanced setti
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=Venkatchavan_SDSRH&metric=vulnerabilities)](https://sonarcloud.io/dashboard?id=Venkatchavan_SDSRH)
 
 
-## 7.Clean code development
+## Clean code development
 
 Creation of a Cheat Sheet for upcoming projects - [ccd-sdsrh.md](https://github.com/Venkatchavan/SDSRH/blob/1b9eefd12c6a1c8141f0645d0fcad34efc3137b6/ccd-sdsrh.md)
 
-## 8.Build
+## Build
 
 "Utilizes C++ with a custom build system for managing COVID-19 patient data and vaccination appointments, designed for seamless integration as a reusable package."
 -[build-of-project](https://github.com/Venkatchavan/SDSRH/blob/31251148b1c798fda081937a9a0abb818a3e8365/build_of_project.md)
 
-## 9.Unit Tests
+## Unit Tests
 "The project's unit tests ensure robust functionality and adherence to specifications, promoting code reliability and preventing regression issues in the Patient Management System."
 
-## 10.IDE
+## IDE
 
 Adding most favorite shortcuts here and create own to allow faster developemnt without lifting hands from keyboard
 -[IDE](https://github.com/Venkatchavan/SDSRH/blob/b2abb86d4edbd729e6f60a8ecf2ab4c7e46ee24b/IDE)
 
-## 11.Functional Programming
+## Functional Programming
 
 Apply functional programming for it's understanding and adding a class
 -[Functional Programming](https://github.com/Venkatchavan/SDSRH/blob/5acdd244c7b1416cf94fc53c0b02d4ba1942b46e/functional-programming.md)
