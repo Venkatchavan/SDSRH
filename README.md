@@ -91,11 +91,11 @@ These requirements ensure effective patient data management, convenient developm
 
 ### 4.Analysis
 
-"Thorough analysis encompasses defining a patient-centric scope, identifying stakeholders, mitigating risks, ensuring compliance, integrating seamlessly, and evaluating technical feasibility, budget, scalability, and market differentiation, setting the stage for a robust Patient Management System."
+Thorough analysis encompasses defining a patient-centric scope, identifying stakeholders, mitigating risks, ensuring compliance, integrating seamlessly, and evaluating technical feasibility, budget, scalability, and market differentiation, setting the stage for a robust Patient Management System.
 
 ### 5.DDD
 
-"Employing Domain-Driven Design principles, the project aligns business goals and technical implementation, fostering a modular, decoupled architecture to enhance flexibility, scalability, and maintainability in developing an innovative Patient Management System."
+Employing Domain-Driven Design principles, the project aligns business goals and technical implementation, fostering a modular, decoupled architecture to enhance flexibility, scalability, and maintainability in developing an innovative Patient Management System.
 
 
 ### 6.Metrices
@@ -117,11 +117,12 @@ Creation of a Cheat Sheet for upcoming projects - [ccd-sdsrh.md](https://github.
 
 ### 8.Build
 
-"Utilizes C++ with a custom build system for managing COVID-19 patient data and vaccination appointments, designed for seamless integration as a reusable package."
+Utilizes C++ with a custom build system for managing COVID-19 patient data and vaccination appointments, designed for seamless integration as a reusable package.
 -[build-of-project](https://github.com/Venkatchavan/SDSRH/blob/31251148b1c798fda081937a9a0abb818a3e8365/build_of_project.md)
 
 ### 9.Unit Tests
-"The project's unit tests ensure robust functionality and adherence to specifications, promoting code reliability and preventing regression issues in the Patient Management System."
+The project's unit tests ensure robust functionality and adherence to specifications, promoting code reliability and preventing regression issues in the Patient Management System.
+-[see-unit-tests](https://github.com/Venkatchavan/SDSRH/blob/b9ce8026f8903818f0c4c1dedaf1197e5038d062/unittest.md)
 
 ### 10.IDE
 
