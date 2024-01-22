@@ -110,9 +110,7 @@ Creation of SonarCloud account and connecting to repository (with advanced setti
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=Venkatchavan_SDSRH&metric=security_rating)](https://sonarcloud.io/dashboard?id=Venkatchavan_SDSRH)
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=Venkatchavan_SDSRH&metric=vulnerabilities)](https://sonarcloud.io/dashboard?id=Venkatchavan_SDSRH)
 
-
-![image](https://github.com/Venkatchavan/SDSRH/assets/63041346/5b713cfa-857c-4137-aeda-77f0234cc253)
-
+[IF ABOVE LINK EXPIRES]()
 
 ### 7.Clean code development
 
