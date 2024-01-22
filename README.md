@@ -97,6 +97,8 @@ Thorough analysis encompasses defining a patient-centric scope, identifying stak
 
 Employing Domain-Driven Design principles, the project aligns business goals and technical implementation, fostering a modular, decoupled architecture to enhance flexibility, scalability, and maintainability in developing an innovative Patient Management System.
 -[Domain-Driven-Design](https://github.com/Venkatchavan/SDSRH/tree/022c15586b925a99794a5c0bf3a44dd5d59815db/DDD)
+(IN CASE COLORS DOSENT MATCH PLEASE USE DARK MODE AS THE IMAGES HAVE WHITE TEXT)
+
 
 ### 6.Metrices
 Creation of SonarCloud account and connecting to repository (with advanced settings) for metric badges:
