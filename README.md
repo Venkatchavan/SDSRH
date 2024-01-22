@@ -130,7 +130,7 @@ The project's unit tests ensure robust functionality and adherence to specificat
 ### 10.IDE
 
 Adding most favorite shortcuts here and create own to allow faster developemnt without lifting hands from keyboard
--[IDE]([https://github.com/Venkatchavan/SDSRH/blob/b2abb86d4edbd729e6f60a8ecf2ab4c7e46ee24b/IDE](https://github.com/Venkatchavan/SDSRH/blob/0191f2038731c59b40cff526bf058c11d80b4ed0/IDE.md))
+-[IDE](https://github.com/Venkatchavan/SDSRH/blob/8f63bee5fcdb6b327e674ef635c367ab5912cc95/IDE.md)
 
 ### 11.Functional Programming
 
