@@ -111,6 +111,9 @@ Creation of SonarCloud account and connecting to repository (with advanced setti
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=Venkatchavan_SDSRH&metric=vulnerabilities)](https://sonarcloud.io/dashboard?id=Venkatchavan_SDSRH)
 
 
+![image](https://github.com/Venkatchavan/SDSRH/assets/63041346/5b713cfa-857c-4137-aeda-77f0234cc253)
+
+
 ### 7.Clean code development
 
 Creation of a Cheat Sheet for upcoming projects - [ccd-sdsrh.md](https://github.com/Venkatchavan/SDSRH/blob/1b9eefd12c6a1c8141f0645d0fcad34efc3137b6/ccd-sdsrh.md)
